@@ -311,7 +311,7 @@ hr {
 #portfolio {
     background: #313741;
     text-align: center;
-    padding: 5em 0;
+    padding: 2em 0;
 }
 
 .portfolio-heading-title {
@@ -466,7 +466,7 @@ ul.list-with-slashes li {
 .portfolio-item-btn {
     position: absolute;
     top: 85%;
-    left: 15%;
+    left: 20%;
     transform: translate(-50%, -50%);
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
